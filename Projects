@@ -1,0 +1,21 @@
+# Real-Time Dashboards 📊
+
+### Description
+A real-time Tableau dashboard integrating AWS data streams to monitor business KPIs.
+
+### Technologies Used
+- Tableau
+- AWS S3
+- Python
+
+### Features
+- Reduces reporting latency by 30%.
+- Provides live insights into business metrics.
+
+### Screenshots
+![Dashboard Screenshot](link-to-image)
+
+### How to Run
+1. Clone the repository: `git clone https://github.com/mariangvivolo/real-time-dashboards.git`
+2. Open the Tableau file in Tableau Desktop.
+3. Connect to the AWS data source and refresh.
